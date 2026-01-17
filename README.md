@@ -48,3 +48,4 @@
 - [[BrVox](https://institutobrvox.com.br/)]
 - [[ABEPI](https://abepi.com.br/)]
 - [[Galaxy](https://institutogalaxy.com/)]
+- [[Workshop PPGCM](https://workshopppgcmufpi.netlify.app/)]
