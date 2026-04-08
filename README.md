@@ -1,4 +1,4 @@
-### Hello! I'm Paulo Almeida (a.k.a 0xRozAl) 👋 |💻 Web3 & Blockchain Developer •
+### Hello! I'm Paulo Almeida (a.k.a 0xRoz) 👋 |💻 Web3 & Blockchain Developer •
 
 <a href="#">
     <img 
